@@ -6,9 +6,10 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developmen
 
 ## 🚀 About Me
 
-- 💻 Currently focusing on **Full Stack Web Development**
+- 💻 Currently focusing on **Full Stack Web Development** and **Cyber Security**
 - 🌱 Learning **JavaScript**, **React**, **Node.js**, and **RESTful APIs**
 - 🧠 Passionate about clean code, responsive UI, and user-centered experiences
+- 🛡️ Exploring security best practices and ethical hacking techniques
 - 🤝 Always open to collaboration on meaningful and innovative projects
 
 ---
@@ -40,6 +41,12 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developmen
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F05340?style=flat&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 📱 Mobile Development
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
@@ -62,6 +69,26 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developmen
 
 ---
 
+## 🛡️ Cyber Security
+
+Exploring the world of **Cyber Security** to build secure software and understand how systems can be protected from vulnerabilities.
+
+- 🔐 Web Application Security (OWASP Top 10)
+- 🧪 Penetration Testing & Vulnerability Assessment
+- 📡 Network Scanning & Enumeration
+- 🧰 Hands-on with ethical hacking tools and techniques
+
+### 🧰 Security Tools
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6C37?style=flat&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-214478?style=flat&logo=nmap&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat&logo=owasp&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-1f1f1f?style=flat&logo=linux&logoColor=green)
+
+---
+
 ## 📫 Get in Touch
 
 - 📧 Email: [muhammadridwanah123@gmail.com](mailto:muhammadridwanah123@gmail.com)  
@@ -71,7 +98,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developmen
 
 ## ⚡ Fun Fact
 
-I love building real-world projects to sharpen my skills, and I'm always excited to learn how things work behind the scenes.
+I love building real-world projects to sharpen my skills, and I'm always excited to learn how things work behind the scenes — both from a developer’s and a hacker’s mindset 🧠🔍
 
 ---
 
